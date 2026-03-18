@@ -1,0 +1,17 @@
+{
+    "Name": "Multi-electrode array recordings of rat retinal ganglion cells with LED stimulation for retinotectal cell identification via ReaChR phototagging",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Retinal tissue was obtained from Long-Evans rats that received stereotactic injections of AAV2retro-CAG-ReaChR-mCitrine into the superior colliculus. This retrograde viral approach resulted in expression of the red-shifted channelrhodopsin ReaChR and the fluorophore mCitrine in retinotectal RGCs.\nEx vivo retinal recordings were performed on 512-electrode arrays following pharmacological blockade of photoreceptor-mediated responses using L-AP4, DL-AP5, and CNQX. LED flashes at 565 nm were delivered at multiple intensities and durations (10, 30, 100, and 200 ms) to selectively activate ReaChR-expressing cells. The dataset contains recordings from 6 experiments, each capturing responses from hundreds of RGCs to the LED stimulation protocol.",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.11.2.dev15+g782176cb1",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
